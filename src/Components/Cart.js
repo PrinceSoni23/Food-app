@@ -7,14 +7,14 @@ const initialCart = [
     name: "Grilled Salmon",
     price: 96,
     quantity: 2,
-    image: "https://img.freepik.com/free-photo/grilled-chicken-breast-vegetables_53876-16128.jpg",
+    image: "/grilled.jpg",
   },
   {
     id: 2,
     name: "Meat vegetable",
     price: 65.08,
     quantity: 2,
-    image: "https://img.freepik.com/free-photo/grilled-vegetable-salad-with-chicken_2829-11416.jpg",
+    image: "/veg.jpg",
   },
 ];
 
